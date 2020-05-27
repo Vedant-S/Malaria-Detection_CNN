@@ -1,7 +1,7 @@
 # Malaria-Detection_CNN:
 ____________________________________________________________________________________________________________________________________
 Built a deep learning CNN Model to differentiate between healthy and malaria infected cell images.
-
+____________________________________________________________________________________________________________________________________
 `Dataset Source:`
 https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
