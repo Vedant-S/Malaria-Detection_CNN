@@ -1,6 +1,7 @@
-# Malaria-Detection_CNN:
+# Malaria Infected Cell Detection using Computer Vision and Convolutional Neural Network (CNN):
 ____________________________________________________________________________________________________________________________________
-Built a deep learning CNN Model to differentiate between healthy and malaria infected cell images.
+Built a deep learning CNN Model to differentiate between healthy and malaria infected cell images. Used Keras and Tensorflow Libraries to create a Convolutional Neural Network which successfully classifies blood cell images into malaria infected and uninfected category with an accuracy of 95% and a recall of 93%.
+Performed data augmentation & image preprocessing to improve predictions. 
 
 `Dataset Source:`
 https://ceb.nlm.nih.gov/repositories/malaria-datasets/
