@@ -8,7 +8,7 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 _____________________________________________________________________________________________________________________________________
 ## Reference:
 ##### `(Research Papers)`
-____________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 Using of deep neural ensembles, recently report an improvement towards malaria parasite detection in thin-blood smear images and is published in the Peer Journal as cited herewith:
 - Rajaraman S, Jaeger S, Antani SK. (2019) Performance evaluation of deep neural ensembles toward malaria parasite detection in thin-blood smear images. PeerJ 7:e6977: https://doi.org/10.7717/peerj.6977
 _____________________________________________________________________________________________________________________________________
